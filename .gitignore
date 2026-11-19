@@ -1,5 +1,4 @@
 .env
 *.env
-*.wav
 __pycache__/
 .venv/
